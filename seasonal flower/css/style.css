@@ -1,0 +1,15 @@
+body{
+    background-color: papayawhip;
+    font-family: 'Times New Roman', Times, serif;
+    color: peru;
+}
+
+a{
+    color: darksalmon;
+}
+a:hover{
+    color: cornflowerblue;
+}
+hr{
+    color: aliceblue;
+}
